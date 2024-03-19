@@ -1,3 +1,3 @@
 let greet = "hello again"
-
-console.log(greet)
+let username="fayzan"
+console.log(greet,": ", username)
